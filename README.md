@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Singaravel7
-- 👀 I’m interested in CyberSecurity 
+- 👀 I’m interested in CyberSecurity and Networking
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me singaravelofficial7@gmail.com
